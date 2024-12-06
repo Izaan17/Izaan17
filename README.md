@@ -1,5 +1,5 @@
 # Hey there, I'm Izaan! 👋
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/izaann)
 
 
 ## 💡 About Me

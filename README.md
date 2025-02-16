@@ -23,7 +23,7 @@ I’m passionate about **automation**, **problem-solving**, and finding creative
 
 
 ## 🛠️ Skills & Technologies
-- **Languages**: Python, JavaScript, MySQL, Shell Scripting
+- **Languages**: Python, Java, JavaScript, MySQL, Shell Scripting
 - **Tools**: Git, Docker
 
 ## 🌐 Connect with Me

@@ -1,30 +1,30 @@
-# Hey there, I'm Izaan! 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/izaann)
+# 👋 Hello I'm Izaan.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square\&logo=LinkedIn\&logoColor=white)](https://www.linkedin.com/in/izaann) | [My Website](https://www.izaann.dev) | ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=izaan17)
 
-## 💡 About Me
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=izaan17)
+## About Me
 
-I’m passionate about **automation**, **problem-solving**, and finding creative ways to make life easier. I thrive on crafting efficient solutions to everyday challenges, blending my love for innovation with my drive to improve systems and processes.
+I make fun and interesting websites, and I build web apps and small tools that help me and other people automate repetitive tasks. I have a passion for coding and enjoy turning ideas into useful, practical things.
 
-### What you can expect here:
-- **Automation Projects**: Tools and scripts that simplify workflows and save time.
-- **Problem-Solving Showcases**: Real-world problems tackled with clean, maintainable code.
-- **Collaborative Initiatives**: Open-source contributions and partnerships to make tech accessible.
+You can see projects and notes at [https://www.izaann.dev](https://www.izaann.dev).
 
+## What I build
 
-## 🚀 Current Focus
-- **🔭 Working on**: Automating repetitive tasks to maximize productivity.
-- **📬 Open to**: Collaborating on innovative automation projects or any opportunity to solve intriguing problems.
+* Web apps and interfaces that solve real problems and are straightforward to use
+* Automation utilities that cut down on repetitive work
+* Experiments and small projects to explore new patterns and simplify workflows
+* Projects for fun that have practical value
 
+## Skills and technologies
 
-<!-- ## 📈 My GitHub Stats
-![Izaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaan17&show_icons=true&theme=radical) -->
+Frontend: React, Next.js, HTML, CSS, Tailwind CSS, TypeScript, Vite
 
+Languages: JavaScript, TypeScript, Python, MySQL
 
-## 🛠️ Skills & Technologies
-- **Languages**: Python, Java, JavaScript, MySQL, Shell Scripting
-- **Tools**: Git, Docker
+Tools: Git, Github
 
-## 🌐 Connect with Me
-Feel free to reach out for collaboration, code reviews, or just to share some ideas!
+## Connect
+
+Website: [https://www.izaann.dev](https://www.izaann.dev)
+
+LinkedIn: [https://www.linkedin.com/in/izaann](https://www.linkedin.com/in/izaann)
